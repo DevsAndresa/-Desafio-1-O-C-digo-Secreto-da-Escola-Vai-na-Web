@@ -7,7 +7,7 @@ Aqui, você encontrará as soluções para restaurar o sistema da escola e derro
 Um vírus invadiu o sistema da escola **Vai na Web**, comprometendo a organização das notas, o sistema de votação, a segurança dos dados e muito mais!  
 O **Professor Byte** precisa de ajuda urgente para restaurar tudo antes que a situação saia do controle.  
 
-## 🚀 Missões Concluídas  
+## 🚀 Missões
 ✅ **Missão 1**: Verificar aprovação de alunos com base na nota.  
 ✅ **Missão 2**: Identificar se um estudante tem idade suficiente para votar.  
 ✅ **Missão 3**: Restaurar a escala de notas (A, B, C, D ou F).  
@@ -23,5 +23,3 @@ O **Professor Byte** precisa de ajuda urgente para restaurar tudo antes que a si
 ## 📌 Tecnologias Utilizadas  
 - **Linguagem**: Python 🐍  
 - **Curso**: Vai na Web 🎓  
-
-🔗 **Confira o código completo e explore as soluções!** 😊  

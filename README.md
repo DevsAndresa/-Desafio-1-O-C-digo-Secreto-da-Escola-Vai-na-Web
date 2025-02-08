@@ -1,4 +1,5 @@
-🛠️ Desafio - Restaurando o Sistema da Escola Vai na Web 🎓🚀
+🛠️ Desafio - Restaurando o Sistema da Escola Vai na Web 🎓
+
 Bem-vindo(a) ao repositório da minha resolução do Desafio de Programação do Vai na Web! Aqui, você encontrará as soluções para restaurar o sistema da escola e derrotar o vírus misterioso que bagunçou notas, permissões de acesso e segurança.
 
 🕵️‍♂️ O Desafio
@@ -16,32 +17,10 @@ Um vírus invadiu o sistema da escola Vai na Web, comprometendo a organização 
 🔹 Missão 9: Criar um programa para calcular o dobro de um número.
 🔹 Missão 10: Criar uma função para contar letras em um nome.
 
-🏆 Conclusão
-Com cada missão resolvida, o sistema foi restaurado com sucesso e a escola voltou a funcionar perfeitamente! 🎉 Agora, me tornei um(a) verdadeiro(a) desenvolvedor(a) Full Stack em formação! 💻✨
 
 📌 Tecnologia utilizada: Python 🐍
 📌 Desenvolvido no curso: Vai na Web 🎓
 
 🔗 Confira o código completo e explore as soluções! 😊
 
-Se quiser alguma modificação ou um tom diferente, me avise! 😊
 
-
-
-
-
-
-
-Você disse:
-350 caracteres
-O ChatGPT disse:
-🛠️ Desafio - Restaurando o Sistema da Escola 🎓🚀
-Um vírus invadiu a escola Vai na Web, bagunçando notas, permissões e segurança! O Professor Byte precisa de ajuda para restaurar o sistema.
-
-🔹 Verificação de notas e votação
-🔹 Ordenação e cálculos numéricos
-🔹 Segurança e validação de senhas
-
-📌 Linguagem: Python 🐍
-
-🚀 Confira as soluções! 😊

@@ -19,9 +19,6 @@ O **Professor Byte** precisa de ajuda urgente para restaurar tudo antes que a si
 ✅ **Missão 9**: Criar um programa para calcular o dobro de um número.  
 ✅ **Missão 10**: Criar uma função para contar letras em um nome.  
 
-## 🏆 Conclusão  
-Com cada missão resolvida, o sistema foi restaurado com sucesso e a escola voltou a funcionar perfeitamente! 🎉  
-Agora, me tornei um(a) verdadeiro(a) **desenvolvedor(a) Full Stack** em formação! 💻✨  
 
 ## 📌 Tecnologias Utilizadas  
 - **Linguagem**: Python 🐍  
